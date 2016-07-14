@@ -86,7 +86,7 @@ function isEqual(firstWord, secondWord) {
   if (firstWord === secondWord) {
     return "AWWWRIGHT";
   } else {
-    return "Y U NO MATCH!"
+    return "Y U NO MATCH!";
   }
 }
 
@@ -96,7 +96,7 @@ function isNotEqual(firstWord, secondWord) {
   if (firstWord !== secondWord) {
     return "AWWWRIGHT";
   } else {
-    return "Y U NO MATCH!"
+    return "Y U NO MATCH!";
   }
 }
 
